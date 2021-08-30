@@ -9,7 +9,8 @@ public class Main {
         * Merge sort takes more memory space comparing to insertion sort
         * Merge sort takes much less time than insertion sort, especially on big data
         * Merge sort takes approximately the same time either on not sorted array and partially sorted one
-        * */
+        * Insertion sort is better to use with small or partially sorted data or in case of limited memory space
+        * * */
 
 
         int length = 100000;
